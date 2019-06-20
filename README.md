@@ -1,2 +1,2 @@
 # xlms
-Analzying xlms data
+Analyzing xlms data
